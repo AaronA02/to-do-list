@@ -38,8 +38,7 @@ const page = () => {
             </div>
             <button
               onClick={() => deleteHandler(i)}
-              className='bg-red-400 text-white border-1 rounded p-1 font-bold text-xs'
-            >
+              className='bg-red-400 text-white border-1 rounded p-1 font-bold text-xs'>
               Remove
             </button>
           </div>
